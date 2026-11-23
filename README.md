@@ -3,7 +3,7 @@
 
 # Halo, saya Variel Marasi Sirait 👋
 
-**Mahasiswa Sistem Informasi** · Antusias di bidang AI, Data Science & Software Development
+**Mahasiswa Sistem Informasi** · Antusias di bidang AI, Data Science & Web Development
 
 </div>
 
